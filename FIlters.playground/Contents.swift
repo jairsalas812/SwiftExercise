@@ -10,3 +10,5 @@ let triples = nums.map { $0 * 3 }
 
 // reduce — suma total
 let suma = nums.reduce(0) { $0 + $1 }
+
+
