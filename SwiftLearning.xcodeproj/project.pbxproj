@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		E300329E2F6DFD1600875197 /* dia03-Protocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "dia03-Protocols.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E328C0682F6B550500BE76C4 /* dia02-Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "dia02-Optionals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E36CCD582F6A223A005CD90B /* Optionalss.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optionalss.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E36CCD5A2F6A25C9005CD90B /* FIlters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FIlters.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -19,6 +20,7 @@
 				E36CCD582F6A223A005CD90B /* Optionalss.playground */,
 				E36CCD5A2F6A25C9005CD90B /* FIlters.playground */,
 				E328C0682F6B550500BE76C4 /* dia02-Optionals.playground */,
+				E300329E2F6DFD1600875197 /* dia03-Protocols.playground */,
 			);
 			sourceTree = "<group>";
 		};
